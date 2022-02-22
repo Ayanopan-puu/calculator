@@ -4,3 +4,9 @@
 table {
   margin: 0 auto;
 }
+td:hover {
+  background-color: rgb(241, 149, 211);
+}
+.calculator {
+  column-span: 3;
+}
